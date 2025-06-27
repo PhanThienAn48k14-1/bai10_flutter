@@ -83,7 +83,9 @@ class _MyHomePageState extends State<MyHomePage> {
           // wireframe for each widget.
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const Text('Đây là dự án A'),
+
+            const Text('Đây là dự án B'),
+
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
