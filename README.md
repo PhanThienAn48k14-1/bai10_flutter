@@ -1,3 +1,8 @@
 # bai10_flutter
 
-1234 ngày hahajsdadads
+
+A new Flutter project.
+
+## Getting Started
+
+Phan An hahaha
