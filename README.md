@@ -1,8 +1,7 @@
 # bai10_flutter
 
 
-A new Flutter project.
+Đây là dự án A
 
-## Getting Started
 
-Phan An hahaha
+
